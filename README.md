@@ -1,7 +1,8 @@
 # Hello there. I'm trmihnle
-Welcome to my GitHub
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <p>I'm Minh. Currently studying at ITMO University.</p>
+  <p>I am a Machine Learning Engineer at the Department of Automation and Robotics, ITMO University</p>
 </div>
 
 <div id="badges" align="center">
@@ -15,3 +16,21 @@ Welcome to my GitHub
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
+
+<hr/>
+
+### Research
+
+```javascript
+const ML = {"Python", "TensorFlow", "Pytorch", "Transformers", "NN"};
+```
+
+
+### Development
+```javascript
+const web = {
+    frontend: ["HTML5", "CSS3", "JavaScript"],
+    backend: ["Node.js", "Django", "Flask"],
+    devops: ["Docker", "Heroku"]
+};
+```
