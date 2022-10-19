@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <p>I'm Minh. Currently studying at ITMO University.</p>
-  <p>I am a Machine Learning Engineer at the Department of Automation and Robotics, ITMO University</p>
+  <p>I am a Machine Learning Engineer at the Department of Automation and Robotics, ITMO National Research University</p>
 </div>
 
 <div id="badges" align="center">
