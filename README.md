@@ -28,9 +28,9 @@ const ML = {"Python", "TensorFlow", "Pytorch", "Transformers", "NN"};
 
 ### Development
 ```javascript
-const web = {
+const dev = {
     frontend: ["HTML5", "CSS3", "JavaScript"],
     backend: ["Node.js", "Django", "Flask"],
-    devops: ["Docker", "Heroku"]
+    devops: ["Docker", "Heroku", "Jenkins"]
 };
 ```
