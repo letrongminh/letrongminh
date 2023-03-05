@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <p>Currently studying at ITMO National Research University.</p>
-  <p>Fascinated by robotics and machine learning, especially computer vision. I pay great attention to object-oriented</p>
+  <p>Fascinated by Cloud computing, DevOps and MLOps, especially building microservices at scale. I pay great attention to object-oriented</p>
 </div>
 
 <div id="badges" align="center">
