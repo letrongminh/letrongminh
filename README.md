@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <p>Currently studying at ITMO National Research University.</p>
-  <p>Fascinated by Cloud computing, DevOps and MLOps, especially building microservices at scale. I pay great attention to object-oriented</p>
+  <p>Fascinated by Cloud computing, Distributed Computing and MLOps, especially building microservices at scale. </p>
 </div>
 
 <div id="badges" align="center">
@@ -30,7 +30,7 @@ const ML = {"Python", "TensorFlow", "Pytorch", "Transformers", "NN"};
 ```javascript
 const dev = {
     frontend: ["HTML5", "CSS3", "JavaScript"],
-    backend: ["Node.js", "Django", "Flask"],
-    devops: ["Docker", "Heroku", "Jenkins"]
+    backend: ["Node.js", "FastAPI", "Flask"],
+    devops: ["Docker", "Heroku", "Jenkins", "Ansible", "Vagrant"]
 };
 ```
